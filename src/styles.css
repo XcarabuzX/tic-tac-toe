@@ -62,15 +62,19 @@ body {
   border: 1px solid #999;
   border-radius: 5px;
   float: left;
-  font-size: 24px;
+  font-size: 50px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 100px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 100px;
+}
+.board{
+  display: grid;
+  justify-content: center;
 }
 
 .board-row:after {
