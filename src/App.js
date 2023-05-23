@@ -25,7 +25,7 @@ export default function Board() {
   const winner = calculateWinner(squares);
   let status;
   if (winner) {
-    status = "Han ganado las: " + winner;
+    status = "Han ganado las: " + winner + "!";
   }else{
     status = "Siguiente jugador: " + (xIsNext ? "X" : "O");
   }
