@@ -8,9 +8,9 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "ljg0t8",
-  "description": null,
-  "version": "0.0.0",
+  "name": "tic-tac-toe",
+  "description": "tic-tac-toe en react",
+  "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
